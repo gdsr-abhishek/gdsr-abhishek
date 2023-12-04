@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gdsr-abhishek
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... Working on FullStack web development
 - 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gdsr.abhishek@gmai.com
 
 <!---
